@@ -36,7 +36,9 @@ while not end_of_game:
         if letter == guess:
             display[position] = letter
     
-
+    #Join all the elements in the list and turn it into a String.
+    print(f"{' '.join(display)}")
+    
     #Check if user is wrong.
     if guess not in chosen_word:
         print(f"You guessed {guess}, that's not in the word. You lose a life.")
@@ -45,10 +47,6 @@ while not end_of_game:
             end_of_game = True
             print("You lose.")
             print(f"The word is {chosen_word}.")
-    
-    if guess in chosen_word:
-    #Join all the elements in the list and turn it into a String.
-        print(f"{' '.join(display)}")
 
     #Check if user has got all letters.
     if "_" not in display:
