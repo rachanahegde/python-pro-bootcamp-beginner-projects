@@ -1,6 +1,6 @@
 <h1> Beginner Projects from 100 Days of Code</h1>
 <h3> Treasure Island </h3>
-An choose your adventure game.
+An choose your adventure game where you search for hidden treasure and possibly die in the process.
 
 <h3> Password Generator </h3>
 Generates a password with the order of characters randomised.
