@@ -7,3 +7,6 @@ Generates a password with the order of characters randomised.
 
 <h3> Hangman Game </h3>
 The user can guess a letter in a randomly chosen word until they lose all six lives or figure out the word and win! 
+
+<h3> Caesar Cipher </h3>
+A program that enables you to encrypt and decrypt messages. Kind of useful but mostly fun.
