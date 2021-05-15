@@ -9,4 +9,4 @@ Generates a password with the order of characters randomised.
 The user can guess a letter in a randomly chosen word until they lose all six lives or figure out the word and win! 
 
 <h3> Caesar Cipher </h3>
-A program that enables you to encrypt and decrypt messages. Kind of useful but mostly fun.
+A program that enables you to encrypt and decrypt messages so that if the message is intercepted, it'll just read like gibberish to a stranger.
