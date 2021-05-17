@@ -1,5 +1,5 @@
 <h1> Beginner Projects from 100 Days of Code</h1>
-Note: The files were originally saved in replet and I haven't saved all the corresponding art files (containing the logos and ASCII art) for each of the games. This might cause errors when the program runs.
+Note: All of the code was originally written and run in replet and I haven't saved all the corresponding art files (containing the logos and ASCII art) for each of the games. This repository mainly exists to document my progress and my learning through each project I've completed during the bootcamp.  
 
 <h3> Treasure Island </h3>
 An choose your adventure game where you search for hidden treasure and possibly die in the process.
@@ -14,3 +14,4 @@ The user can guess a letter in a randomly chosen word until they lose all six li
 A program that enables you to encrypt and decrypt messages so that if the message is intercepted, it'll just read like gibberish to a stranger.
 
 <h3> Silent Auction </h3>
+A group of people can each enter their name and bid (secretly!) and the program will select the highest bidder. 
