@@ -15,3 +15,6 @@ A program that enables you to encrypt and decrypt messages so that if the messag
 
 <h3> Silent Auction </h3>
 A group of people can each enter their name and bid (secretly!) and the program will select the highest bidder. 
+
+<h3> Calculator </h3>
+Literally a calculator. 
