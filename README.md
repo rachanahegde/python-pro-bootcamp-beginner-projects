@@ -1,5 +1,5 @@
 <h1> Beginner Projects from 100 Days of Code</h1>
-Note: All of the code was originally written and run in replet and I haven't saved all the corresponding art files (containing the logos and ASCII art) for each of the games. This repository mainly exists to document my progress and my learning through each project I've completed during the bootcamp.  
+Note: All of the code was originally written and run in replit and I haven't saved all the corresponding art files (containing the logos and ASCII art) for each of the games. This repository mainly exists to document my progress and my learning through each project I've completed during the bootcamp.  
 
 <h3> Treasure Island </h3>
 An choose your adventure game where you search for hidden treasure and possibly die in the process.
