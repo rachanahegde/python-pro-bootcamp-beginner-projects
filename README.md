@@ -18,3 +18,7 @@ A group of people can each enter their name and bid (secretly!) and the program 
 
 <h3> Calculator </h3>
 Literally a calculator. 
+
+<h3> Blackjack Game </h3>
+This blackjack game was the first capstone project for this bootcamp and it was really testing my knowledge and my patience! I decided to share the code that I originally wrote - before watching her solution videos - and I completed the standard difficulty version of this project (which still took me 6 hours). I know my code is a little repetitive in some places but considering I'm figuring this all out on my own, I'm pretty happy with the result.
+
