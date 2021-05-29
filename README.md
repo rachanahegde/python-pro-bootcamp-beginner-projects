@@ -20,4 +20,4 @@ A group of people can each enter their name and bid (secretly!) and the program 
 Literally a calculator. 
 
 <h3> Blackjack Game </h3>
-This blackjack game was the first capstone project for this bootcamp and it really tested my knowledge and my patience! I decided to share the code that I originally wrote - before watching her solution videos - and I completed the standard difficulty version of this project (which still took me 6 hours). Python Tutor's visualisation feature helped me fix some major bugs.
+This blackjack game was the first capstone project for this bootcamp and it really tested my knowledge and my patience! I was able to write almost all of this code on my own but watching her solution videos helped clarify some things for me and understand the game better. I completed the standard difficulty version of this project and Python Tutor's visualisation feature helped me fix some major bugs.
