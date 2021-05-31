@@ -25,7 +25,7 @@ while game_continues:
     print(f"You got it! The answer was {random_number}.")
     game_continues = False
 
-  if attempts != 0:
+  if attempts != 0 and user_guess != random_number:
     print("Guess again.")
   elif attempts == 0 and user_guess != random_number:
     print("You've run out of guesses, you lose.")
