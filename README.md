@@ -24,3 +24,6 @@ This blackjack game was the first capstone project for this bootcamp and it real
 
 <h3> Guess the Number </h3>
 A game to guess a random number.
+
+<h3> The Higher Lower Game </h3>
+A game that compares the follower count of two famous people. You pick the person who you think has more followers and gain points for each correct answer. This was the first project that included zero hints from Angela. I followed her advice and broke down the problem into a set of tasks and used Python Tutor for debugging. 
