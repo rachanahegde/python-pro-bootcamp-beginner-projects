@@ -1,4 +1,4 @@
-<h1> Beginner Projects from 100 Days of Code</h1>
+<h1> Fourteen Beginner Projects from 100 Days of Code</h1>
 Note: All of the code was originally written and run in replit and I haven't saved all the corresponding art files (containing the logos and ASCII art) for each of the games. This repository mainly exists to document my progress and my learning through each project I've completed during the bootcamp.  
 
 <h3> Treasure Island </h3>
